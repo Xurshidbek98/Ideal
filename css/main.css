@@ -1,0 +1,116 @@
+*{margin:0; padding:0px;}
+
+.surat_up{
+	text-align: center;
+	
+	background-image: url("../img/a1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+}
+.surat_up h2{
+	font-size: 44px;
+	padding-top: 200px;
+	color: #f8f8f8;
+	padding-left: 100px;
+}
+.surat_up span{
+	padding-top: 200px;
+	color: #626262;
+	font-size: 20px;
+	padding-left: 100px;
+}
+.surat_up span:hover{
+	color:#eee;}
+
+/*Markaz boshlandi*/
+
+.markaz{
+	padding-top: 40px;
+	height: 60px;
+	color: white;
+	background-color: #060606;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.HRMN{
+	display: flex;
+	justify-content: space-around;
+}
+.HRMN h1{
+	font-size: 34px;
+}
+.HRMN .menyu a{
+	margin-right: 10px;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-top: 50px;
+	color: white;
+	text-decoration: none;
+
+}
+.HRMN .menyu a:hover{
+	color: gray;
+}
+
+.footq{
+	clear: both;
+	padding: 120px;
+	height: 200px;
+	background-color: #cc3333;
+	display: flex;
+	justify-content: space-around;
+}
+.korpus{
+	
+	width: 400pt;
+	height: 300px;
+	border: 1px solid white;
+	border-radius: 30px;
+	background-color: white;
+}
+.korpus .ichki{
+	margin: 30px;
+	border: 1px solid #333;
+	background-color: #333;
+	height: 180pt;
+}
+.korpus .doira{
+	border:1px solid grey;
+	background-color: grey;
+	border-radius: 100%;
+	width: 30px;
+	height: 30px;
+	margin-top: -180px;
+	margin-left: 504px;
+
+}
+.korpus .doira .tur{
+	border: 1px solid #eee;
+	background-color: #eee;
+	width: 20px;
+	height: 20px;
+	margin-top: 3px;
+	margin-left: 3px;
+}
+.telmtn{
+	
+	
+	text-align: left;
+	text-indent: 20px;
+	color: white;
+	font-size: 20px;
+}
+.telmtn h2, p{
+	margin-left: 100px;
+}
+
+.telmtn p{
+	display: flex;
+	margin-top: 20px;
+	
+}
+.telmtn1{
+	overflow: auto;
+}
